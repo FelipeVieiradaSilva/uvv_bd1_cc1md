@@ -12,5 +12,5 @@ O DBeaver foi usufruido para escrever todos os comandos e os comentários que fo
 Dentro do aplicativo do SQL Power Architect foi feito a criação do banco de dados da lojas UVV
 ### Terminal do Linux
 No terminal do Linux foi testados os comandos que foram implementados no DBeaver, a fim de saber se o comando instalado estava correto e funcionando
-####Desafios passados ao fazer o pset
+#### Desafios passados ao fazer o pset
 Tiveram vários desafios enquanto o PSET estava sendo feito, principalmente no que se trata na utilização do terminal do Linux, visto que foi uma adição nova para o meu conhecimento e tive que aprender tudo do início, quais são os comandos e as etapas que tem que ser seguidas na ordem correta. Além desse problema, tinham outros impasses que tiveram que ser passados, como a utilização do sistema de gerenciamento de banco de dados do PostgreSQL, também algo novo que nunca tinha usado antes. Quase todos os comandos que tinham que ser recorridos eram diferentes do MariaDB, um outro tipo de (SGBD) que era o que eu estava aprendendo na hora. Dito isso, este trabalho foi muito importante exatamente pela sua dificuldade e pelo fato de ser tudo novo que me fez pesquisar muito sobre e isso me beneficiou em conseguir ter conhecimento em PostgreSQL e os comandos do terminal do Linux.
